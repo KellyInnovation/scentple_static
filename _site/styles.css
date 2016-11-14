@@ -1,0 +1,46 @@
+body {
+	margin-top: 80px;
+}
+
+iframe {
+	margin-top: 100px;
+}
+
+button {
+	background-color: #f2e9e1;
+	border-radius: 6px;
+	font-size: 40px;
+	margin: 10px;
+}
+
+button a {
+	text-decoration: none;
+	color: black;
+}
+
+.fa {
+	text-decoration: none;
+	color: black;
+	font-size: 24px;
+	border: solid grey 1px;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.fa-home {
+	text-decoration: none;
+	color: white;
+	font-size: 40px;
+}
+
+.navbar {
+	background-color: black;
+}
+
+.top-selection {
+	width: 100%;
+	font-size: 48px;
+}
+
+
+
